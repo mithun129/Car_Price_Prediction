@@ -1,0 +1,200 @@
+﻿Brand,fueltype,mileage,model,price,transmission,variant,year
+Audi,Diesel,70500,A4,2650000,Automatic,35 TDI Premium + Sunroof,2015
+Audi,Diesel,0,A6,2295000,0,0,2018
+Audi,Diesel,0,Q3,530000,0,0,2016
+BMW,Diesel,0,3 Series,32000,0,2.5 GX (Diesel) 8 Seater BS IV,2013
+BMW,Diesel,30808,3 Series,140999,Manual,2.5 GX (Diesel) 8 Seater,2014
+BMW,Diesel,0,5 Series,400000,0,0,4021
+BMW,Diesel,0,6 Series,355000,0,0,2013
+BMW,Diesel,0,6 Series,640000,0,350d 4MATIC,2013
+BMW,Diesel,0,X1,1845000,0,RXZ,2019
+BMW,Petrol,69000,5 Series,1025000,Automatic,523i,2010
+BMW,Petrol,0,X1,599000,0,Sportz,2011
+Chevrolet,Diesel,62000,Sail U-VA,199999,Automatic,1.4 CRDI Asta (O),2013
+Chevrolet,Diesel,25446,Sail U-VA,225000,Manual,LXI,2013
+Fiat,Diesel,98000,500,265000,Manual,0,2009
+Fiat,Diesel,0,Palio Stile,499599,0,RXT,2008
+Ford,Diesel,0,Ecosport,285000,0,0,2017
+Ford,Diesel,67542,Ecosport,265000,Manual,T8,2019
+Ford,Diesel,0,Fiesta,250000,0,0,2007
+Ford,Diesel,0,Figo,841000,0,0,2011
+Ford,Diesel,0,Figo Aspire,300000,0,Era Plus,2017
+Ford,Petrol,0,Ecosport,275000,0,0,2014
+Ford,Petrol,0,Ecosport,860000,0,Lounge,2015
+Ford,Petrol,24000,Figo,3450000,Manual,VDi,2016
+Honda,Diesel,0,Amaze,560000,0,520d Luxury Line,2016
+Honda,Diesel,0,City,1021000,0,0,4031
+Honda,Diesel,0,Jazz,1735000,0,0,4033
+Honda,Petrol,0,Amaze,2241000,0,0,2017
+Honda,Petrol,63213,City,824000,Manual,0,2011
+Hyundai,CNG & Hybrids,108000,EON,800000,Manual,0,2013
+Hyundai,Diesel,0,Creta,361000,0,0,2015
+Hyundai,Diesel,0,Creta,710000,0,110PS Diesel RxZ,2017
+Hyundai,Diesel,16000,Elantra,1600000,Manual,1.5 Diesel Titanium,2018
+Hyundai,Diesel,0,Elite i20,396000,0,1.2 MPI Highline Plus,2014
+Hyundai,Diesel,120000,Elite i20,1075000,Manual,i-DTEC VX,2018
+Hyundai,Diesel,0,Grand i10,4650000,0,0,2014
+Hyundai,Diesel,0,i20,590000,0,1.5 Petrol Titanium,2012
+Hyundai,Diesel,0,i20,484000,0,ZDI,2013
+Hyundai,Diesel,0,Verna,385000,0,0,2013
+Hyundai,Petrol,0,Creta,675000,0,Others,2019
+Hyundai,Petrol,0,Elite i20,5200000,0,0,2018
+Hyundai,Petrol,0,Elite i20,215000,0,M6 8Str,2016
+Hyundai,Petrol,0,EON,470000,0,VXI,2014
+Hyundai,Petrol,0,Grand i10,40000,0,0,2015
+Hyundai,Petrol,0,Grand i10,1530000,0,ZDI,2015
+Hyundai,Petrol,93000,Grand i10,145000,Automatic,0,2016
+Hyundai,Petrol,43000,Grand i10,535000,Manual,1.2 Kappa Magna,2015
+Hyundai,Petrol,15000,Grand i10,1300000,Manual,320d Luxury Line,2016
+Hyundai,Petrol,0,i10,1100000,0,1.2 Kappa Sportz,2010
+Hyundai,Petrol,0,i10,780000,0,VDi,2012
+Hyundai,Petrol,145000,i20,450000,Manual,0,2014
+Hyundai,Petrol,39,i20,1750000,Manual,1.2 Asta,2015
+Hyundai,Petrol,21000,i20,199000,Manual,Innova Crysta 2.4 GX 8 STR,2010
+Hyundai,Petrol,0,Santro,980000,0,0,4026
+Hyundai,Petrol,0,Santro Xing,3700000,0,43 AMG Coupe,2008
+Hyundai,Petrol,8100,Venue,1900000,Manual,0,2019
+Kia,Petrol,0,Seltos,245000,0,0,2020
+Land Rover,Diesel,0,Discovery Sport,750000,0,0,2018
+Land Rover,Petrol,0,Discovery,120000,0,0,2017
+Mahindra,Diesel,0,Marazzo,550000,0,0,2019
+Mahindra,Diesel,0,Rexton,375000,0,0,2014
+Mahindra,Diesel,0,Scorpio,215000,0,Magna 1.1 CRDi,2013
+Mahindra,Diesel,85000,Scorpio,1350000,Manual,1.2 LS,2007
+Mahindra,Diesel,0,TUV 300,1709999,0,0,4034
+Mahindra,Diesel,31703,XUV500,161000,Manual,0,2012
+Mahindra,Diesel,91036,XUV500,420000,Manual,AT W10 FWD,2016
+Mahindra,Diesel,0,Xylo,400000,0,0,2018
+Maruti Suzuki,CNG & Hybrids,53000,Alto K10,990000,Manual,2013-2015 1.2 MPI Comfortline,2013
+Maruti Suzuki,Diesel,79000,Ciaz,545000,Manual,0,2016
+Maruti Suzuki,Diesel,0,Ertiga,525000,0,0,2015
+Maruti Suzuki,Diesel,52000,Ertiga,820000,Automatic,0,2014
+Maruti Suzuki,Diesel,239000,Ertiga,990000,Manual,0,4031
+Maruti Suzuki,Diesel,0,Swift,730000,0,0,2015
+Maruti Suzuki,Diesel,0,Swift,350000,0,VDi,2014
+Maruti Suzuki,Diesel,0,Swift Dzire,865000,0,0,2018
+Maruti Suzuki,Diesel,0,Swift Dzire,340000,0,Magna Optional,2016
+Maruti Suzuki,Diesel,120200,Swift Dzire,375000,Automatic,2.4 MIVEC,2013
+Maruti Suzuki,Diesel,37000,Swift Dzire,330000,Manual,0,2017
+Maruti Suzuki,Diesel,0,Vitara Brezza,561000,0,1.4 Asta Option,2018
+Maruti Suzuki,Diesel,50000,Vitara Brezza,35000,Manual,0,2017
+Maruti Suzuki,Diesel,70000,Vitara Brezza,415000,Manual,Magna Plus,2018
+Maruti Suzuki,Petrol,0,Alto,380000,0,2010-2012 sDrive20d,2012
+Maruti Suzuki,Petrol,0,Alto 800,95000,0,0,2018
+Maruti Suzuki,Petrol,69677,Alto 800,660000,Manual,0,2014
+Maruti Suzuki,Petrol,42000,Alto 800,655555,Manual,V2 LS,2013
+Maruti Suzuki,Petrol,27884,Alto K10,575000,Manual,0,2012
+Maruti Suzuki,Petrol,0,Baleno,490000,0,0,2017
+Maruti Suzuki,Petrol,7000,Baleno,570000,Automatic,1.5 Revotorq XZA Plus,2017
+Maruti Suzuki,Petrol,38000,Celerio,550000,Manual,0,2017
+Maruti Suzuki,Petrol,0,Ertiga,440000,0,0,2015
+Maruti Suzuki,Petrol,0,Estilo,560000,0,0,2007
+Maruti Suzuki,Petrol,0,Swift,495000,0,0,4030
+Maruti Suzuki,Petrol,0,Swift Dzire,1650000,0,0,2018
+Maruti Suzuki,Petrol,3800,Swift Dzire,250000,Manual,GTX Plus,2015
+Maruti Suzuki,Petrol,0,Vitara Brezza,780000,0,0,2020
+Maruti Suzuki,Petrol,0,Wagon R,1397000,0,0,6037
+Mercedes-Benz,Diesel,0,GLC Class,251000,0,1.3 SDX,2017
+Mercedes-Benz,Diesel,53000,GLS,211000,Manual,0,2019
+Mercedes-Benz,Diesel,0,M-Class,95000,0,0,2014
+Mercedes-Benz,Diesel,8000,M-Class,800000,Automatic,0,2012
+Mercedes-Benz,Diesel,0,S-Class,125000,0,0,2008
+Mercedes-Benz,Petrol,0,GLC Class,1050000,0,0,2019
+Mitsubishi,Petrol,62000,Outlander,285000,Manual,1.2 Alpha,2011
+Nissan,Diesel,0,Kicks,625000,0,0,2020
+NO rating,0,0,0,26510297,0,0,0
+NO rating,0,0,0,210000,0,1.2 G X Edition,0
+NO rating,0,0,0,200000,0,1.2 LS,0
+NO rating,0,0,0,465000,0,1.2 Spotz,0
+NO rating,0,0,0,425000,0,1.5 TDI Highline,0
+NO rating,0,0,0,320000,0,1.6 CRDi AT SX Plus,0
+NO rating,0,0,0,4900000,0,1.6 Highline,0
+NO rating,0,0,0,660000,0,1.6 SX Automatic,0
+NO rating,0,0,0,155000,0,2.5 GX (Diesel) 7 Seater BS IV,0
+NO rating,0,0,0,575000,0,2011-2014 VDI,0
+NO rating,0,0,0,2250000,0,2011-2015 320d Sport Line,0
+NO rating,0,0,0,120000,0,2012-2015 VDI,0
+NO rating,0,0,0,68000,0,2013-2016 S i-Dtech,0
+NO rating,0,0,0,355000,0,2014-2017 VXI,0
+NO rating,0,0,0,240000,0,Asta 1.2,0
+NO rating,0,0,0,430000,0,LXI,0
+NO rating,0,0,0,250000,0,ML 250 CDI,0
+NO rating,0,0,0,385000,0,ML 350 CDI,0
+NO rating,0,0,0,155000,0,RXL,0
+NO rating,0,0,0,300000,0,Sportz 1.2 Automatic Kappa2,0
+NO rating,0,0,0,150000,0,Sportz 1.2 Kappa VTVT,0
+NO rating,0,0,0,975000,0,T10,0
+NO rating,0,0,0,370000,0,VXI,0
+NO rating,0,0,0,330000,0,XG AT,0
+NO rating,0,0,0,485000,0,XV Premium Option D,0
+NO rating,0,0,0,300000,0,ZDI,0
+NO rating,0,387500,0,2992000,Automatic,0,0
+NO rating,0,141000,0,82000,Automatic,1.6 CRDi AT SX Plus,0
+NO rating,0,49000,0,1625000,Automatic,2010-2013 Diesel Trendline,0
+NO rating,0,71249,0,540000,Automatic,2015-2017 35 TDI Quattro Premium Plus,0
+NO rating,0,100000,0,1025000,Automatic,320 CDI,0
+NO rating,0,27000,0,94000,Automatic,35 TDI MATRIX EDITION,0
+NO rating,0,44000,0,160000,Automatic,640d Gran Coupe,0
+NO rating,0,29000,0,400000,Automatic,AMT VDI,0
+NO rating,0,37500,0,2775000,Automatic,GT TSI,0
+NO rating,0,34000,0,550000,Automatic,HSE,0
+NO rating,0,6000,0,220000,Automatic,Others,0
+NO rating,0,16000,0,230000,Automatic,SD4 HSE Luxury 7S,0
+NO rating,0,79500,0,230000,Automatic,xDrive 20d M Sport,0
+NO rating,0,1654279,0,14771998,Manual,0,0
+NO rating,0,39000,0,375000,Manual,1.2 Alpha,0
+NO rating,0,48000,0,120000,Manual,1.2 V,0
+NO rating,0,46000,0,175000,Manual,1.5 Diesel Trend,0
+NO rating,0,49808,0,195000,Manual,1.5 TDCi Titanium,0
+NO rating,0,29100,0,1890000,Manual,1.5 TDI Ambition,0
+NO rating,0,62000,0,250000,Manual,2.4 ZX MT,0
+NO rating,0,90000,0,850000,Manual,2.5 G (Diesel) 7 Seater BS-IV,0
+NO rating,0,158000,0,470000,Manual,2.5 V 7 STR,0
+NO rating,0,270000,0,235000,Manual,2.5 V 8 STR,0
+NO rating,0,76653,0,5500000,Manual,2002-2013 EX,0
+NO rating,0,130000,0,585000,Manual,2004-2010 1.6 Duratec EXI,0
+NO rating,0,67000,0,250000,Manual,2011-2014 VDI,0
+NO rating,0,59000,0,295000,Manual,2011-2014 ZXI,0
+NO rating,0,18534,0,345000,Manual,2013-2016 Asta Option,0
+NO rating,0,82000,0,581000,Manual,2014-2015 V MT,0
+NO rating,0,70186,0,285000,Manual,520d,0
+NO rating,0,60000,0,140000,Manual,CRDi 1.6 SX,0
+NO rating,0,95353,0,285000,Manual,Duratorq EXI 1.4,0
+NO rating,0,65000,0,1100000,Manual,H4,0
+NO rating,0,70164,0,655000,Manual,LDI Optional,0
+NO rating,0,155500,0,2372000,Manual,LXI,0
+NO rating,0,13200,0,915000,Manual,LXI Option,0
+NO rating,0,69000,0,650000,Manual,Magna,0
+NO rating,0,38000,0,79000,Manual,Magna Executive 1.2,0
+NO rating,0,215000,0,1256000,Manual,Others,0
+NO rating,0,14000,0,100000,Manual,RXL,0
+NO rating,0,85740,0,3350000,Manual,SHVS VDI,0
+NO rating,0,81046,0,275000,Manual,V Diesel,0
+NO rating,0,28950,0,60002,Manual,VX i-VTEC,0
+NO rating,0,65314,0,1085000,Manual,VXI,0
+NO rating,0,112000,0,140000,Manual,ZDI,0
+Renault,Diesel,0,Duster,345000,0,220d 4MATIC Sport,2014
+Renault,Petrol,0,KWID,1250000,0,640d Gran Coupe,2016
+Renault,Petrol,85524,KWID,565000,Manual,0,2016
+Renault,Petrol,0,Triber,799733,0,0,2019
+Renault,Petrol,90000,Triber,139999,Manual,VXI,2020
+Skoda,Diesel,0,Rapid,1175000,0,0,2016
+Tata,Diesel,0,Bolt,99000,0,1.2 Kappa Sportz Option,2017
+Tata,Diesel,60000,Indica V2,725000,Manual,1.05 Revotorq XZ Option,2014
+Tata,Diesel,60000,Tigor,311000,Manual,LXI,2017
+Tata,Petrol,15000,Nexon,390000,Automatic,CRDi Leather,2020
+Tata,Petrol,0,Tiago,855000,0,0,2017
+Toyota,Diesel,0,Innova,1270000,0,0,10059
+Toyota,Diesel,0,Innova,425000,0,Magna,2015
+Toyota,Diesel,85000,Innova,200000,Manual,0,2015
+Toyota,Diesel,168000,Innova,711000,Manual,2.4 VX MT 8S,2017
+Toyota,Diesel,0,Innova Crysta,375000,0,0,2019
+Toyota,Diesel,78000,Innova Crysta,2850000,Manual,Asta 1.4 CRDI,2016
+Toyota,Petrol,69000,Etios Cross,850000,Automatic,0,2014
+Toyota,Petrol,0,Etios Liva,450000,0,0,2015
+Volkswagen,Diesel,0,Polo,130000,0,2011-2015 W8 4WD,2013
+Volkswagen,Diesel,0,Vento,500000,0,0,2011
+Volkswagen,Diesel,0,Vento,345000,0,V,2013
+Volkswagen,Petrol,0,Ameo,625000,0,2002-2013 SLE BS IV,2018
+Volkswagen,Petrol,0,Polo,410000,0,0,4036
+Volkswagen,Petrol,0,Polo,420000,0,Others,2014
